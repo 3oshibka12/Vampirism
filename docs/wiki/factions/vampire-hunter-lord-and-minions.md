@@ -31,6 +31,8 @@ Since hunter players might not use their action menu frequently, it might be bet
 Minions will stay in the world even when you disconnect from the server or change the dimension. 
 If a minion is hurt severely, it will teleport to safety and recover. Once recovered you can retrieve it using the minion task menu.
 
+The maximum number of minions that a lord can have is 5.
+
 #### Vampire
 As a lord you can bind a vampire NPC to you by right-clicking it with a vampire minion binding item. However, many vampires are too strong to be controlled by you, so you have to look for a weak one.
 You can improve the capabilities of your minion using vampire minion upgrades.
